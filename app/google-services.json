@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "86818860514",
+    "firebase_url": "https://myticket-c276d.firebaseio.com",
+    "project_id": "myticket-c276d",
+    "storage_bucket": "myticket-c276d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86818860514:android:1764237df0fc4f4e",
+        "android_client_info": {
+          "package_name": "com.yudha.myticket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86818860514-0fp0mfhda77b6iegi5k4dst1rfmfgo1u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yudha.myticket",
+            "certificate_hash": "15717acb9e17d9c33774dda27793232f7889fdf6"
+          }
+        },
+        {
+          "client_id": "86818860514-vqa2mq1e9g49276ofc1cgcpr8pms3seq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm0VFfM14EBPtjZmWkk-yXVJNzaeKfeM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86818860514-vqa2mq1e9g49276ofc1cgcpr8pms3seq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
